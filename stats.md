@@ -9,3 +9,4 @@
 | eval_sync_without_feedback | ✅ success | 0 | 2025-08-29T11:52:03+02:00 | 2025-08-29T11:52:05+02:00 | 00:02 | 2025-08-29T11:52:05+02:00 | eval_sync_without_feedback finished ok (mode=compute) |
 | eval_async_with_sigmoid_policy_simple_priority_individual_rec | ❌ fail | 1 | 2025-08-29T17:07:17+02:00 | 2025-08-29T17:07:20+02:00 | 00:03 | 2025-08-29T17:07:20+02:00 | eval_async_with_sigmoid_policy_simple_priority_individual_rec failed (mode=compute) |
 | eval_async_static_policy_simple_priority_function_individual_rec | ❌ fail | 1 | 2025-08-29T17:07:23+02:00 | 2025-08-29T17:07:24+02:00 | 00:01 | 2025-08-29T17:07:24+02:00 | eval_async_static_policy_simple_priority_function_individual_rec failed (mode=compute) |
+| eval_async_with_sigmoid_policy_simple_priority_individual_rec | ❌ fail | 1 | 2025-08-29T17:08:02+02:00 | 2025-08-29T17:08:03+02:00 | 00:01 | 2025-08-29T17:08:03+02:00 | eval_async_with_sigmoid_policy_simple_priority_individual_rec failed (mode=compute) |
