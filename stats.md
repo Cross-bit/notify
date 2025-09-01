@@ -21,3 +21,4 @@
 | eval_async_static_policy_simple_priority_function_group_rec | ✅ success | 0 | 2025-08-29T22:34:19+02:00 | 2025-08-30T01:00:36+02:00 | 02:26:17 | 2025-08-30T01:00:37+02:00 | eval_async_static_policy_simple_priority_function_group_rec finished ok (mode=compute) |
 | eval_sync_without_feedback | ❌ fail | 1 | 2025-09-01T21:38:52+02:00 | 2025-09-01T23:25:27+02:00 | 01:46:35 | 2025-09-01T23:25:27+02:00 | eval_sync_without_feedback failed (mode=compute) |
 | eval_sync_with_feedback_ema | ❌ fail | 1 | 2025-09-01T23:25:29+02:00 | 2025-09-02T00:21:32+02:00 | 56:03 | 2025-09-02T00:21:32+02:00 | eval_sync_with_feedback_ema failed (mode=compute) |
+| eval_async_static_policy_simple_priority_function_individual_rec | ✅ success | 0 | 2025-09-02T00:21:34+02:00 | 2025-09-02T01:06:27+02:00 | 44:53 | 2025-09-02T01:06:28+02:00 | eval_async_static_policy_simple_priority_function_individual_rec finished ok (mode=compute) |
