@@ -33,3 +33,4 @@
 | eval_hybrid_all_same_in_first_round | ❌ fail | 2 | 2025-09-04T23:04:09+02:00 | 2025-09-04T23:04:11+02:00 | 00:02 | 2025-09-04T23:04:11+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
 | eval_sync_without_feedback | ❌ fail | 2 | 2025-09-04T23:04:13+02:00 | 2025-09-04T23:04:15+02:00 | 00:02 | 2025-09-04T23:04:15+02:00 | eval_sync_without_feedback failed (mode=compute) |
 | eval_sync_with_feedback_ema | ❌ fail | 2 | 2025-09-04T23:04:17+02:00 | 2025-09-04T23:04:18+02:00 | 00:01 | 2025-09-04T23:04:18+02:00 | eval_sync_with_feedback_ema failed (mode=compute) |
+| eval_hybrid_all_same_in_first_round | ✅ success | 0 | 2025-09-04T23:05:49+02:00 | 2025-09-05T01:06:39+02:00 | 02:00:50 | 2025-09-05T01:06:39+02:00 | eval_hybrid_all_same_in_first_round finished ok (mode=compute) |
