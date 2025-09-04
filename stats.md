@@ -32,3 +32,4 @@
 | eval_async_static_policy_simple_priority_function_group_rec | ❌ fail | 1 | 2025-09-04T00:26:24+02:00 | 2025-09-04T01:11:37+02:00 | 45:13 | 2025-09-04T01:11:37+02:00 | eval_async_static_policy_simple_priority_function_group_rec failed (mode=compute) |
 | eval_hybrid_all_same_in_first_round | ❌ fail | 2 | 2025-09-04T23:04:09+02:00 | 2025-09-04T23:04:11+02:00 | 00:02 | 2025-09-04T23:04:11+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
 | eval_sync_without_feedback | ❌ fail | 2 | 2025-09-04T23:04:13+02:00 | 2025-09-04T23:04:15+02:00 | 00:02 | 2025-09-04T23:04:15+02:00 | eval_sync_without_feedback failed (mode=compute) |
+| eval_sync_with_feedback_ema | ❌ fail | 2 | 2025-09-04T23:04:17+02:00 | 2025-09-04T23:04:18+02:00 | 00:01 | 2025-09-04T23:04:18+02:00 | eval_sync_with_feedback_ema failed (mode=compute) |
