@@ -35,3 +35,4 @@
 | eval_sync_with_feedback_ema | ❌ fail | 2 | 2025-09-04T23:04:17+02:00 | 2025-09-04T23:04:18+02:00 | 00:01 | 2025-09-04T23:04:18+02:00 | eval_sync_with_feedback_ema failed (mode=compute) |
 | eval_hybrid_all_same_in_first_round | ✅ success | 0 | 2025-09-04T23:05:49+02:00 | 2025-09-05T01:06:39+02:00 | 02:00:50 | 2025-09-05T01:06:39+02:00 | eval_hybrid_all_same_in_first_round finished ok (mode=compute) |
 | eval_sync_without_feedback | ✅ success | 0 | 2025-09-05T01:06:42+02:00 | 2025-09-05T02:33:30+02:00 | 01:26:48 | 2025-09-05T02:33:30+02:00 | eval_sync_without_feedback finished ok (mode=compute) |
+| eval_sync_with_feedback_ema | ✅ success | 0 | 2025-09-05T02:33:33+02:00 | 2025-09-05T05:15:50+02:00 | 02:42:17 | 2025-09-05T05:15:50+02:00 | eval_sync_with_feedback_ema finished ok (mode=compute) |
