@@ -41,3 +41,4 @@
 | eval_async_static_policy_simple_priority_function_group_rec | ✅ success | 0 | 2025-09-05T06:01:33+02:00 | 2025-09-05T07:41:58+02:00 | 01:40:25 | 2025-09-05T07:41:58+02:00 | eval_async_static_policy_simple_priority_function_group_rec finished ok (mode=compute) |
 | eval_hybrid_all_same_in_first_round | ❌ fail | 1 | 2025-09-09T00:16:37+02:00 | 2025-09-09T00:16:37+02:00 | 00:00 | 2025-09-09T00:16:37+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
 | eval_hybrid_all_same_in_first_round | ❌ fail | 1 | 2025-09-09T00:17:18+02:00 | 2025-09-09T00:17:18+02:00 | 00:00 | 2025-09-09T00:17:18+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
+| eval_hybrid_updatable | ❌ fail | 1 | 2025-09-09T00:17:21+02:00 | 2025-09-09T00:18:46+02:00 | 01:25 | 2025-09-09T00:18:46+02:00 | eval_hybrid_updatable failed (mode=compute) |
