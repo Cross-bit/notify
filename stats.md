@@ -44,3 +44,4 @@
 | eval_hybrid_updatable | ❌ fail | 1 | 2025-09-09T00:17:21+02:00 | 2025-09-09T00:18:46+02:00 | 01:25 | 2025-09-09T00:18:46+02:00 | eval_hybrid_updatable failed (mode=compute) |
 | eval_sync_without_feedback | ✅ success | 0 | 2025-09-09T00:18:49+02:00 | 2025-09-09T02:32:54+02:00 | 02:14:05 | 2025-09-09T02:32:54+02:00 | eval_sync_without_feedback finished ok (mode=compute) |
 | eval_sync_with_feedback_ema | ✅ success | 0 | 2025-09-09T02:32:57+02:00 | 2025-09-09T02:44:46+02:00 | 11:49 | 2025-09-09T02:44:46+02:00 | eval_sync_with_feedback_ema finished ok (mode=compute) |
+| eval_async_static_policy_simple_priority_function_individual_rec | ✅ success | 0 | 2025-09-09T02:44:49+02:00 | 2025-09-09T03:23:42+02:00 | 38:53 | 2025-09-09T03:23:42+02:00 | eval_async_static_policy_simple_priority_function_individual_rec finished ok (mode=compute) |
