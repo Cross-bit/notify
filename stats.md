@@ -42,3 +42,4 @@
 | eval_hybrid_all_same_in_first_round | ❌ fail | 1 | 2025-09-09T00:16:37+02:00 | 2025-09-09T00:16:37+02:00 | 00:00 | 2025-09-09T00:16:37+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
 | eval_hybrid_all_same_in_first_round | ❌ fail | 1 | 2025-09-09T00:17:18+02:00 | 2025-09-09T00:17:18+02:00 | 00:00 | 2025-09-09T00:17:18+02:00 | eval_hybrid_all_same_in_first_round failed (mode=compute) |
 | eval_hybrid_updatable | ❌ fail | 1 | 2025-09-09T00:17:21+02:00 | 2025-09-09T00:18:46+02:00 | 01:25 | 2025-09-09T00:18:46+02:00 | eval_hybrid_updatable failed (mode=compute) |
+| eval_sync_without_feedback | ✅ success | 0 | 2025-09-09T00:18:49+02:00 | 2025-09-09T02:32:54+02:00 | 02:14:05 | 2025-09-09T02:32:54+02:00 | eval_sync_without_feedback finished ok (mode=compute) |
