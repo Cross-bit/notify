@@ -48,3 +48,4 @@
 | eval_async_with_sigmoid_policy_simple_priority_individual_rec | ✅ success | 0 | 2025-09-09T03:23:45+02:00 | 2025-09-09T04:02:54+02:00 | 39:09 | 2025-09-09T04:02:54+02:00 | eval_async_with_sigmoid_policy_simple_priority_individual_rec finished ok (mode=compute) |
 | eval_async_static_policy_simple_priority_function_group_rec | ❌ fail | 1 | 2025-09-09T04:02:57+02:00 | 2025-09-09T04:04:06+02:00 | 01:09 | 2025-09-09T04:04:06+02:00 | eval_async_static_policy_simple_priority_function_group_rec failed (mode=compute) |
 | eval_hybrid_general_rec_individual | ✅ success | 0 | 2026-02-12T23:58:33+01:00 | 2026-02-13T00:20:43+01:00 | 22:10 | 2026-02-13T00:20:43+01:00 | eval_hybrid_general_rec_individual finished ok (mode=compute) |
+| eval_hybrid_updatable | ✅ success | 0 | 2026-02-13T00:20:48+01:00 | 2026-02-13T02:12:09+01:00 | 01:51:21 | 2026-02-13T02:12:09+01:00 | eval_hybrid_updatable finished ok (mode=compute) |
