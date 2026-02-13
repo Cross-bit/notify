@@ -51,3 +51,4 @@
 | eval_hybrid_updatable | ✅ success | 0 | 2026-02-13T00:20:48+01:00 | 2026-02-13T02:12:09+01:00 | 01:51:21 | 2026-02-13T02:12:09+01:00 | eval_hybrid_updatable finished ok (mode=compute) |
 | eval_sync_without_feedback | ✅ success | 0 | 2026-02-13T02:12:12+01:00 | 2026-02-13T02:32:34+01:00 | 20:22 | 2026-02-13T02:32:34+01:00 | eval_sync_without_feedback finished ok (mode=compute) |
 | eval_sync_with_feedback_ema | ✅ success | 0 | 2026-02-13T02:32:38+01:00 | 2026-02-13T03:17:24+01:00 | 44:46 | 2026-02-13T03:17:24+01:00 | eval_sync_with_feedback_ema finished ok (mode=compute) |
+| eval_async_static_policy_simple_priority_function_individual_rec | ✅ success | 0 | 2026-02-13T03:17:27+01:00 | 2026-02-13T03:30:27+01:00 | 13:00 | 2026-02-13T03:30:27+01:00 | eval_async_static_policy_simple_priority_function_individual_rec finished ok (mode=compute) |
