@@ -59,3 +59,4 @@
 | eval_sync_without_feedback | ✅ success | 0 | 2026-02-13T14:09:18+01:00 | 2026-02-13T14:28:41+01:00 | 19:23 | 2026-02-13T14:28:41+01:00 | eval_sync_without_feedback finished ok (mode=compute) |
 | eval_sync_with_feedback_ema | ✅ success | 0 | 2026-02-13T14:28:44+01:00 | 2026-02-13T15:20:32+01:00 | 51:48 | 2026-02-13T15:20:32+01:00 | eval_sync_with_feedback_ema finished ok (mode=compute) |
 | eval_async_static_policy_simple_priority_function_individual_rec | ✅ success | 0 | 2026-02-13T15:20:36+01:00 | 2026-02-13T15:34:54+01:00 | 14:18 | 2026-02-13T15:34:54+01:00 | eval_async_static_policy_simple_priority_function_individual_rec finished ok (mode=compute) |
+| eval_async_with_sigmoid_policy_simple_priority_individual_rec | ✅ success | 0 | 2026-02-13T15:34:57+01:00 | 2026-02-13T15:47:10+01:00 | 12:13 | 2026-02-13T15:47:10+01:00 | eval_async_with_sigmoid_policy_simple_priority_individual_rec finished ok (mode=compute) |
