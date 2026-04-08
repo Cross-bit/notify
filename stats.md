@@ -72,3 +72,4 @@
 | eval_async_static_policy_simple_priority_function_group_rec | ✅ success | 0 | 2026-02-20T20:59:45+01:00 | 2026-02-20T21:20:35+01:00 | 20:50 | 2026-02-20T21:20:35+01:00 | eval_async_static_policy_simple_priority_function_group_rec finished ok (mode=compute) |
 | eval_hybrid_general_rec_individual | ❌ fail | 1 | 2026-04-08T10:47:14+02:00 | 2026-04-08T10:47:18+02:00 | 00:04 | 2026-04-08T10:47:18+02:00 | eval_hybrid_general_rec_individual failed (mode=compute) |
 | eval_hybrid_general_rec_individual | ❌ fail | 1 | 2026-04-08T11:03:19+02:00 | 2026-04-08T11:46:42+02:00 | 43:23 | 2026-04-08T11:46:42+02:00 | eval_hybrid_general_rec_individual failed (mode=compute) |
+| eval_hybrid_general_rec_individual | ✅ success | 0 | 2026-04-08T12:12:34+02:00 | 2026-04-08T14:08:00+02:00 | 01:55:26 | 2026-04-08T14:08:00+02:00 | eval_hybrid_general_rec_individual finished ok (mode=compute) |
