@@ -75,3 +75,4 @@
 | eval_hybrid_general_rec_individual | ✅ success | 0 | 2026-04-08T12:12:34+02:00 | 2026-04-08T14:08:00+02:00 | 01:55:26 | 2026-04-08T14:08:00+02:00 | eval_hybrid_general_rec_individual finished ok (mode=compute) |
 | eval_hybrid_updatable | ✅ success | 0 | 2026-04-08T14:08:04+02:00 | 2026-04-09T03:18:44+02:00 | 13:10:40 | 2026-04-09T03:18:44+02:00 | eval_hybrid_updatable finished ok (mode=compute) |
 | eval_sync_without_feedback | ✅ success | 0 | 2026-04-09T03:18:47+02:00 | 2026-04-09T09:01:11+02:00 | 05:42:24 | 2026-04-09T09:01:11+02:00 | eval_sync_without_feedback finished ok (mode=compute) |
+| eval_sync_with_feedback_ema | ✅ success | 0 | 2026-04-09T09:01:14+02:00 | 2026-04-09T14:56:54+02:00 | 05:55:40 | 2026-04-09T14:56:54+02:00 | eval_sync_with_feedback_ema finished ok (mode=compute) |
